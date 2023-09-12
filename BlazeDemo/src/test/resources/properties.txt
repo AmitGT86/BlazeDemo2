@@ -1,0 +1,5 @@
+Name Field: //input[@id='username']
+Address Field: //input[@id='password']
+State Button: //button[@id='login-button']
+Zip Code: //h1[@class='welcome-message']
+Credit card :
